@@ -9,4 +9,5 @@ API details: https://documenter.getpostman.com/view/12543346/TzeRo9zW
 >Prerequisites: <br/>
 >A mySql schema or database matching to the value in .env file <br/>
 >
->The app is in its basic version for demo and needs many upgrades. <br/>
+>Note:
+>The app is in its basic version for demo and many upgrades are coming soon <br/>
