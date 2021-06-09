@@ -10,4 +10,4 @@ API details: https://documenter.getpostman.com/view/12543346/TzeRo9zW
 >A mySql schema or database matching to the value in .env file <br/>
 >
 >Info: <br/>
->The app is in its basic version for demo and many upgrades and features are coming soon <br/>
+>The app is in its basic version for demo purpose <br/>
