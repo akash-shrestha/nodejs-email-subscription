@@ -1,7 +1,8 @@
 A simple app with email subscription feature using nodejs, express and mysql based on REST API </br>
 Gmail email service is used for email services </br>
-Note: 
-'Less secure app access' setting must be set to 'allow' on Gmail account settings
+</br>
+Note: </br>
+'Less secure app access' setting must be set to 'allow' on Gmail account settings for the email service to work
 
 API details: https://documenter.getpostman.com/view/12543346/TzeRo9zW
 
